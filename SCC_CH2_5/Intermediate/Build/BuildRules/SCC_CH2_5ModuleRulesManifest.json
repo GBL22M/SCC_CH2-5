@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"E:\\MY_GAME\\UNREAL\\SCC_CH2_5\\Source\\SCC_CH2_5\\SCC_CH2_5.Build.cs",
-		"E:\\MY_GAME\\UNREAL\\SCC_CH2_5\\Source\\SCC_CH2_5.Target.cs",
-		"E:\\MY_GAME\\UNREAL\\SCC_CH2_5\\Source\\SCC_CH2_5Editor.Target.cs"
+		"E:\\CODING\\SCC_git\\Ch2-5\\SCC_CH2-5\\SCC_CH2_5\\Source\\SCC_CH2_5\\SCC_CH2_5.Build.cs",
+		"E:\\CODING\\SCC_git\\Ch2-5\\SCC_CH2-5\\SCC_CH2_5\\Source\\SCC_CH2_5.Target.cs",
+		"E:\\CODING\\SCC_git\\Ch2-5\\SCC_CH2-5\\SCC_CH2_5\\Source\\SCC_CH2_5Editor.Target.cs"
 	],
 	"EngineVersion": "5.5.1"
 }

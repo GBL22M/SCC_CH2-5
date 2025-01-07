@@ -1,4 +1,4 @@
-"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp"
+"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.cpp"
 /I "."
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\UnrealEd\UHT"
 /I "Programs\UnrealLightmass\Public"
@@ -298,10 +298,10 @@
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /Yc"SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
-/experimental:log "E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.sarif"
-/sourceDependencies "E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.json"
+/Fp"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+/experimental:log "E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.sarif"
+/sourceDependencies "E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.dep.json"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

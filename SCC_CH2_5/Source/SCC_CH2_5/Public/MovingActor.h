@@ -16,10 +16,14 @@ protected:
 	virtual void BeginPlay() override;
 
 public:	
-	virtual void Tick(float DeltaTime) override;
-	void Move();
+	void Move(int stepIdx);
 	int32_t Step();
+
+	float Distance(FVector2D startPos, FVector2D endPos);
+	int CreateEvent();
 
 private:
 	FVector2D mStartPosition;
+	int32_t mEventCount;
+	float mTotalDistance;
 };

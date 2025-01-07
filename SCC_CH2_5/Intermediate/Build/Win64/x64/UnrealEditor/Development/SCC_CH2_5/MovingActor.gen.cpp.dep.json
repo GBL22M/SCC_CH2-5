@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\my_game\\unreal\\scc_ch2_5\\intermediate\\build\\win64\\unrealeditor\\inc\\scc_ch2_5\\uht\\movingactor.gen.cpp",
+        "Source": "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\intermediate\\build\\win64\\unrealeditor\\inc\\scc_ch2_5\\uht\\movingactor.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "e:\\my_game\\unreal\\scc_ch2_5\\intermediate\\build\\win64\\x64\\scc_ch2_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\intermediate\\build\\win64\\x64\\scc_ch2_5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "e:\\my_game\\unreal\\scc_ch2_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scc_ch2_5\\definitions.scc_ch2_5.h",
-            "e:\\my_game\\unreal\\scc_ch2_5\\source\\scc_ch2_5\\public\\movingactor.h",
-            "e:\\my_game\\unreal\\scc_ch2_5\\intermediate\\build\\win64\\unrealeditor\\inc\\scc_ch2_5\\uht\\movingactor.generated.h"
+            "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scc_ch2_5\\definitions.scc_ch2_5.h",
+            "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\source\\scc_ch2_5\\public\\movingactor.h",
+            "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\intermediate\\build\\win64\\unrealeditor\\inc\\scc_ch2_5\\uht\\movingactor.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,12 +1,12 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\my_game\\unreal\\scc_ch2_5\\source\\scc_ch2_5\\private\\movingactor.cpp",
+        "Source": "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\source\\scc_ch2_5\\private\\movingactor.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "e:\\my_game\\unreal\\scc_ch2_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scc_ch2_5\\definitions.scc_ch2_5.h",
-            "e:\\my_game\\unreal\\scc_ch2_5\\intermediate\\build\\win64\\x64\\scc_ch2_5editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
-            "e:\\my_game\\unreal\\scc_ch2_5\\source\\scc_ch2_5\\public\\movingactor.h",
+            "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\scc_ch2_5\\definitions.scc_ch2_5.h",
+            "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\intermediate\\build\\win64\\x64\\scc_ch2_5editor\\development\\unrealed\\shareddefinitions.unrealed.project.valapi.cpp20.h",
+            "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\source\\scc_ch2_5\\public\\movingactor.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coreminimal.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\coretypes.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\platform.h",
@@ -675,7 +675,7 @@
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\misc\\paths.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionactordesctype.h",
             "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\actor.generated.h",
-            "e:\\my_game\\unreal\\scc_ch2_5\\intermediate\\build\\win64\\unrealeditor\\inc\\scc_ch2_5\\uht\\movingactor.generated.h"
+            "e:\\coding\\scc_git\\ch2-5\\scc_ch2-5\\scc_ch2_5\\intermediate\\build\\win64\\unrealeditor\\inc\\scc_ch2_5\\uht\\movingactor.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

@@ -1,12 +1,12 @@
-"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\UnrealEditor\Inc\SCC_CH2_5\UHT\MyActor.gen.cpp"
-/FI"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\Definitions.SCC_CH2_5.h"
-/Yu"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.gen.cpp.obj"
-/experimental:log "E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.gen.cpp.sarif"
-/sourceDependencies "E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.gen.cpp.dep.json"
-@"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SCC_CH2_5.Shared.rsp"
+"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\UnrealEditor\Inc\SCC_CH2_5\UHT\MyActor.gen.cpp"
+/FI"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\Definitions.SCC_CH2_5.h"
+/Yu"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.gen.cpp.obj"
+/experimental:log "E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.gen.cpp.sarif"
+/sourceDependencies "E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.gen.cpp.dep.json"
+@"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SCC_CH2_5.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo

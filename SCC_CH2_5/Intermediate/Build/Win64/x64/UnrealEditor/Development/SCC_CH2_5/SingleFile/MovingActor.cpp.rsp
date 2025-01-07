@@ -1,14 +1,14 @@
-"E:\MY_GAME\UNREAL\SCC_CH2_5\Source\SCC_CH2_5\Private\MovingActor.cpp"
+"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Source\SCC_CH2_5\Private\MovingActor.cpp"
 /external:W0
 /external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\Definitions.SCC_CH2_5.h"
-/Fo"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SingleFile\MovingActor.cpp.obj"
-/sourceDependencies "E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SingleFile\MovingActor.cpp.dep.json"
-@"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SCC_CH2_5.Shared.rsp"
+/FI"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\Definitions.SCC_CH2_5.h"
+/Fo"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SingleFile\MovingActor.cpp.obj"
+/sourceDependencies "E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SingleFile\MovingActor.cpp.dep.json"
+@"E:\CODING\SCC_git\Ch2-5\SCC_CH2-5\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SCC_CH2_5.Shared.rsp"
 /d2ssa-cfg-question-
 /Zc:inline
 /nologo
