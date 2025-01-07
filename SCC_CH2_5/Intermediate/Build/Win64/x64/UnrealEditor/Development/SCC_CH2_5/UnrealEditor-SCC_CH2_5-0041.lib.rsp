@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SCC_CH2_5-0041.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\SCC_CH2_5Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.gen.cpp.obj"
+"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SCC_CH2_5.init.gen.cpp.obj"
+"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\SCC_CH2_5.cpp.obj"
+"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\MyActor.cpp.obj"
+"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\PerModuleInline.gen.cpp.obj"
+"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\Default.rc2.res"
+/OUT:"E:\MY_GAME\UNREAL\SCC_CH2_5\Intermediate\Build\Win64\x64\UnrealEditor\Development\SCC_CH2_5\UnrealEditor-SCC_CH2_5-0041.lib"

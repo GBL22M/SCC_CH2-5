@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SCC_CH2_5",
+			"Path": "..\\Source\\SCC_CH2_5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SCC_CH2_5Editor",
+			"Path": "..\\Source\\SCC_CH2_5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

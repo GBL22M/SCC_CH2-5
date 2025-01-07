@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SCC_CH2_5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SCC_CH2_5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SCC_CH2_5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SCC_CH2_5">
+      <UniqueIdentifier>{AB5F95B5-DA5A-33FB-89E4-0B8FDE3A7862}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SCC_CH2_5\SCC_CH2_5.Build.cs">
+      <Filter>Source\SCC_CH2_5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SCC_CH2_5\SCC_CH2_5.cpp">
+      <Filter>Source\SCC_CH2_5</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SCC_CH2_5\SCC_CH2_5.h">
+      <Filter>Source\SCC_CH2_5</Filter>
+    </ClCompile>
+    <Filter Include="Source\SCC_CH2_5\Private">
+      <UniqueIdentifier>{E5D97FB8-B9E1-3DE8-A682-9ACC0D78CC2C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SCC_CH2_5\Private\MovingActor.cpp">
+      <Filter>Source\SCC_CH2_5\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SCC_CH2_5\Private\MyActor.cpp">
+      <Filter>Source\SCC_CH2_5\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SCC_CH2_5\Public">
+      <UniqueIdentifier>{DED52AC4-C97B-383B-ADDC-AFFCAC36AC38}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SCC_CH2_5\Public\MovingActor.h">
+      <Filter>Source\SCC_CH2_5\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SCC_CH2_5\Public\MyActor.h">
+      <Filter>Source\SCC_CH2_5\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
